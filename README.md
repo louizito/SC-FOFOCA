@@ -1,1 +1,3 @@
-# SC-FOFOCA - aluno Luiz Gustavo 1º Série B
+# SC-FOFOCA - 
+
+Luiz Gustavo Chaves de Araújo - 1º Série B
